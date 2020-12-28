@@ -15,7 +15,7 @@ status-website:
   introMessage: Info message 
   navbar:
     - title: Status
-      href: /
+      href: /joinit-status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
